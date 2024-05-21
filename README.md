@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [agr-calculator-app](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/age-calculator-app)
+- Live Site URL: [agr-calculator-app](https://age-calculator-app-ten-pied.vercel.app/)
 
 ## My process
 
